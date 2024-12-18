@@ -1,0 +1,15 @@
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\bin\Debug\net9.0\Dawn of reckoning.exe
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\bin\Debug\net9.0\Dawn of reckoning.deps.json
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\bin\Debug\net9.0\Dawn of reckoning.runtimeconfig.json
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\bin\Debug\net9.0\Dawn of reckoning.dll
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\bin\Debug\net9.0\Dawn of reckoning.pdb
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\Dawn of reckoning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\Dawn of reckoning.AssemblyInfoInputs.cache
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\Dawn of reckoning.AssemblyInfo.cs
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\Dawn of reckoning.csproj.CoreCompileInputs.cache
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\Dawn of reckoning.sourcelink.json
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\Dawn of reckoning.dll
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\refint\Dawn of reckoning.dll
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\Dawn of reckoning.pdb
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\Dawn of reckoning.genruntimeconfig.cache
+C:\Users\thabi\OneDrive\Desktop\dawn of reckoning\Dawn-OF-Reckoning\Dawn of reckoning\obj\Debug\net9.0\ref\Dawn of reckoning.dll
