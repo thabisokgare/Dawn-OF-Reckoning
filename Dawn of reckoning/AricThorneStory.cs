@@ -91,10 +91,13 @@ namespace Dawn_of_reckoning
             Console.Write("\nEnter the number of your choice: ");
             string option1 = Console.ReadLine();
 
+
             // Handle player choice
             switch (option1)
             {
                 case "1":
+
+
                     Console.WriteLine(
                         "You stride along the battlements, your boots echoing on the cold stone. The air is thick with the scent of damp earth and iron. Soldiers nod as you pass, their faces weary but resolute. Below, the city stirs to life, merchants hurrying to secure their wares while blacksmiths labor tirelessly to forge weapons for the coming battle.\n\n" +
                         "As you examine the gatehouse, you notice cracks in the portcullis mechanism. The soldiers stationed there seem oblivious, their focus entirely on the horizon where the forces of Chaos gather.\n\n" +
@@ -104,6 +107,36 @@ namespace Dawn_of_reckoning
                         "You nod, steeling yourself for the imminent conflict. 'We must be ready. Gather the commanders. We need a strategy meeting immediately.\n\n"
 
                     );
+
+                    string art = @"
+
+                                                           |>>>
+                   _                      _                |
+    ____________ .' '.    _____/----/-\ .' './========\   / \
+   //// ////// /V_.-._\  |.-.-.|===| _ |-----| u    u |  /___\
+  // /// // ///==\ u |.  || | ||===||||| |T| |   ||   | .| u |_ _ _ _ _ _
+ ///////-\////====\==|:::::::::::::::::::::::::::::::::::|u u| U U U U U
+ |----/\u |--|++++|..|'''''''''''::::::::::::::''''''''''|+++|+-+-+-+-+-+
+ |u u|u | |u ||||||..|              '::::::::'           |===|>=== _ _ ==
+ |===|  |u|==|++++|==|              .::::::::.           | T |....| V |..
+ |u u|u | |u ||HH||         \|/    .::::::::::.
+ |===|_.|u|_.|+HH+|_              .::::::::::::.              _
+                __(_)___         .::::::::::::::.         ___(_)__
+---------------/  / \  /|       .:::::;;;:::;;:::.       |\  / \  \-------
+______________/_______/ |      .::::::;;:::::;;:::.      | \_______\________
+|       |     [===  =] /|     .:::::;;;::::::;;;:::.     |\ [==  = ]   |
+|_______|_____[ = == ]/ |    .:::::;;;:::::::;;;::::.    | \[ ===  ]___|____
+     |       |[  === ] /|   .:::::;;;::::::::;;;:::::.   |\ [=  ===] |
+_____|_______|[== = =]/ |  .:::::;;;::::::::::;;;:::::.  | \[ ==  =]_|______
+ |       |    [ == = ] /| .::::::;;:::::::::::;;;::::::. |\ [== == ]      |
+_|_______|____[=  == ]/ |.::::::;;:::::::::::::;;;::::::.| \[  === ]______|_
+   |       |  [ === =] /.::::::;;::::::::::::::;;;:::::::.\ [===  =]   |
+___|_______|__[ == ==]/.::::::;;;:::::::::::::::;;;:::::::.\[=  == ]___|_____
+
+
+";
+
+                    Console.WriteLine(art);
 
 
 
@@ -235,15 +268,13 @@ namespace Dawn_of_reckoning
             {
 
                 Console.WriteLine(frame);
-                Thread.Sleep(550); // Adjust the speed of animation
+                Thread.Sleep(500); // Adjust the speed of animation
             }
 
 
             Console.WriteLine("The battle ahead will be difficult, but you are confident in the strength and resolve of your forces.");
-            Console.ReadKey();
+            Console.Clear();
 
-            TheReckoningofThrones();
-            Console.ReadKey();
 
 
         }
@@ -252,58 +283,14 @@ namespace Dawn_of_reckoning
         {
             Console.WriteLine("As you approach the enemy forces, you notice that their numbers are dwindling rapidly." +
              "You begin to gather intel on their weaknesses and vulnerabilities, and your commanders provide you with valuable insights");
-            Console.ReadKey();
 
             Console.WriteLine("Your commanders lead you to a hidden cave entrance, where you can observe the enemy forces closely. They appear to be using stealth and camouflage to blend in, and you quickly become a target." +
                 "With a cautious approach, you approach the cave and engage the enemy forces in a close-quarters battle.");
             Console.ReadKey();
 
+
+
         }
-
-        static async void TheReckoningofThrones()
-
-        {
-            string art3 = @"
-  
-  
-████████╗██╗  ██╗███████╗    ██████╗ ███████╗ ██████╗██╗  ██╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗      ██████╗ ███████╗    ████████╗██╗  ██╗██████╗  ██████╗ ███╗   ██╗███████╗███████╗
-╚══██╔══╝██║  ██║██╔════╝    ██╔══██╗██╔════╝██╔════╝██║ ██╔╝██╔═══██╗████╗  ██║██║████╗  ██║██╔════╝     ██╔═══██╗██╔════╝    ╚══██╔══╝██║  ██║██╔══██╗██╔═══██╗████╗  ██║██╔════╝██╔════╝
-   ██║   ███████║█████╗      ██████╔╝█████╗  ██║     █████╔╝ ██║   ██║██╔██╗ ██║██║██╔██╗ ██║██║  ███╗    ██║   ██║█████╗         ██║   ███████║██████╔╝██║   ██║██╔██╗ ██║█████╗  ███████╗
-   ██║   ██╔══██║██╔══╝      ██╔══██╗██╔══╝  ██║     ██╔═██╗ ██║   ██║██║╚██╗██║██║██║╚██╗██║██║   ██║    ██║   ██║██╔══╝         ██║   ██╔══██║██╔══██╗██║   ██║██║╚██╗██║██╔══╝  ╚════██║
-   ██║   ██║  ██║███████╗    ██║  ██║███████╗╚██████╗██║  ██╗╚██████╔╝██║ ╚████║██║██║ ╚████║╚██████╔╝    ╚██████╔╝██║            ██║   ██║  ██║██║  ██║╚██████╔╝██║ ╚████║███████╗███████║
-   ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝      ╚═════╝ ╚═╝            ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝
-                                                                                                                                                                                           
-
-  
-  ";
-
-            Console.Clear();
-            Console.WriteLine("Your forces have defeated the enemy forces and emerge victorious. The city of Thrones is now safe for all its inhabitants.");
-            Console.ReadKey();
-
-            string frames = @"/-\|";
-
-            Console.CursorVisible = false;
-            await Animate(frames);
-
-            Console.CursorVisible = true;
-
-            async Task Animate(string frames)
-            {
-                while (Console.KeyAvailable is false)
-                {
-                    foreach (var frame in frames)
-                    {
-                        Console.Write($"{frame}");
-                        await Task.Delay(300);
-                    }
-                }
-            }
-
-
-            Console.WriteLine(art3);
-        }
-
 
     }
 }
