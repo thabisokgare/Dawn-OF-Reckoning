@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dawn of reckoning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be338bb34316ab67a78c473a93c0fcacd6dc2cf9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f621cff57b7aaf48b0ee15a7acf3957e3388fc7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dawn of reckoning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dawn of reckoning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
