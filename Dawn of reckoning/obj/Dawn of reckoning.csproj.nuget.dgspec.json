@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thabi\\OneDrive\\Desktop\\dawn of reckoning\\Dawn-OF-Reckoning\\Dawn of reckoning\\Dawn of reckoning.csproj": {}
+    "C:\\Users\\Thabi\\Documents\\GitHub\\Dawn-OF-Reckoning\\Dawn of reckoning\\Dawn of reckoning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thabi\\OneDrive\\Desktop\\dawn of reckoning\\Dawn-OF-Reckoning\\Dawn of reckoning\\Dawn of reckoning.csproj": {
+    "C:\\Users\\Thabi\\Documents\\GitHub\\Dawn-OF-Reckoning\\Dawn of reckoning\\Dawn of reckoning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thabi\\OneDrive\\Desktop\\dawn of reckoning\\Dawn-OF-Reckoning\\Dawn of reckoning\\Dawn of reckoning.csproj",
+        "projectUniqueName": "C:\\Users\\Thabi\\Documents\\GitHub\\Dawn-OF-Reckoning\\Dawn of reckoning\\Dawn of reckoning.csproj",
         "projectName": "Dawn of reckoning",
-        "projectPath": "C:\\Users\\thabi\\OneDrive\\Desktop\\dawn of reckoning\\Dawn-OF-Reckoning\\Dawn of reckoning\\Dawn of reckoning.csproj",
-        "packagesPath": "C:\\Users\\thabi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thabi\\OneDrive\\Desktop\\dawn of reckoning\\Dawn-OF-Reckoning\\Dawn of reckoning\\obj\\",
+        "projectPath": "C:\\Users\\Thabi\\Documents\\GitHub\\Dawn-OF-Reckoning\\Dawn of reckoning\\Dawn of reckoning.csproj",
+        "packagesPath": "C:\\Users\\Thabi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thabi\\Documents\\GitHub\\Dawn-OF-Reckoning\\Dawn of reckoning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\thabi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Thabi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
